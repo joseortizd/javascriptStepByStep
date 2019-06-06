@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4de89d1-cd82-49c7-8bda-f676b93e9f6c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Problemas del 6 al 10/7 problema.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problemas del 6 al 10/8 problema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problemas del 1 al 5/problemacinco.js" beforeDir="false" afterPath="$PROJECT_DIR$/Problemas del 1 al 5/5 problema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problemas del 1 al 5/problemacuatro.js" beforeDir="false" afterPath="$PROJECT_DIR$/Problemas del 1 al 5/4 problema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problemas del 1 al 5/problemados.js" beforeDir="false" afterPath="$PROJECT_DIR$/Problemas del 1 al 5/2 problema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problemas del 1 al 5/problematres.js" beforeDir="false" afterPath="$PROJECT_DIR$/Problemas del 1 al 5/3 problema.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problemas del 1 al 5/problemauno.js" beforeDir="false" afterPath="$PROJECT_DIR$/Problemas del 1 al 5/1 problema.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problemas del 6 al 10/9 problema.js" beforeDir="false" afterPath="$PROJECT_DIR$/Problemas del 6 al 10/9 problema.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -62,11 +56,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="8 problema.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="8 problema.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Problemas del 6 al 10/8 problema.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state>
+              <caret column="11" lean-forward="true" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="9 problema.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Problemas del 6 al 10/9 problema.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -115,6 +118,7 @@
         <option value="$PROJECT_DIR$/Problemas del 6 al 10/6 Problema.js" />
         <option value="$PROJECT_DIR$/Problemas del 6 al 10/7 problema.js" />
         <option value="$PROJECT_DIR$/Problemas del 6 al 10/8 problema.js" />
+        <option value="$PROJECT_DIR$/Problemas del 6 al 10/9 problema.js" />
       </list>
     </option>
   </component>
@@ -143,11 +147,6 @@
             <path>
               <item name="javascriptStepByStep" type="b2602c69:ProjectViewProjectNode" />
               <item name="javascriptStepByStep" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javascriptStepByStep" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javascriptStepByStep" type="462c0819:PsiDirectoryNode" />
-              <item name="Problemas del 1 al 5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javascriptStepByStep" type="b2602c69:ProjectViewProjectNode" />
@@ -206,12 +205,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559790694794</updated>
-      <workItem from="1559790695966" duration="4467000" />
+      <workItem from="1559790695966" duration="4604000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4467000" />
+    <option name="totallyTimeSpent" value="4604000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="721" extended-state="0" />
@@ -303,8 +302,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Problemas del 6 al 10/8 problema.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state>
+          <caret column="11" lean-forward="true" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problemas del 6 al 10/9 problema.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
