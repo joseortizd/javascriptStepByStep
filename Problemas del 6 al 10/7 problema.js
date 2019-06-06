@@ -2,8 +2,7 @@
 // http://progra.usm.cl/apunte/ejercicios/1/hora-futura.html
 function horaFutura(horaActual, horas) {
     horasMayorQueDoce = 12 *(((horaActual+horas)/12)-Math.trunc((horaActual+horas)/12));
-    horaActual = horas/12 > 0?  horasMayorQueDoce === 0 ? 12: horasMayorQueDoce : (horaActual+horas)-12;
-    return horaActual;
+    return horas/12 > 0?  horasMayorQueDoce === 0 ? 12: horasMayorQueDoce : (horaActual+horas)-12;
 }
 horaActual = 11;
 horas = 43;
